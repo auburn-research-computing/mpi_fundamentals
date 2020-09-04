@@ -1,5 +1,5 @@
 //
-//  mpi_bcast.cpp
+//  mpi_scatter.cpp
 //  A simple MPI program
 
 // include the MPI header file so that we can use
