@@ -1,8 +1,5 @@
 //
-//  main.cpp
-//  Created by Bradley Morgan on 09.01.20
-//
-//  hello_mpi.cpp
+//  mpi_bcast.cpp
 //  A simple MPI program
 
 // include the MPI header file so that we can use

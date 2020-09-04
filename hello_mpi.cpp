@@ -1,7 +1,4 @@
 //
-//  main.cpp
-//  Created by Bradley Morgan on 09.01.20
-//
 //  hello_mpi.cpp
 //  A simple MPI program
 
